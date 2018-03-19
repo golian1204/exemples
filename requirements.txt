@@ -1,0 +1,9 @@
+django==1.11
+djangorestframework
+psycopg2
+coreapi
+coreapi-cli
+uuid
+drf-tracking
+django-rest-swagger
+celery==4.1.0
